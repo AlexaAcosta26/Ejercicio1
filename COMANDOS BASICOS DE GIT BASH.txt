@@ -1,0 +1,11 @@
+Resumen de los comandos más importantes
+git config --global user.name <name> : define el nombre que se va a utilizar en los commits de forma global (para el usuario actual).
+git config --global user.email <email> : define el correo electrónico que se va a utilizar en los commits de forma global (para el usuario actual).
+git config --global -e : comando para verificar la información de la configuración
+git init : este comando se encarga de iniciar el repositorio (esto va a crear una carpeta oculta .git en la carpeta donde ejecuta este comando).
+git add . : prepara los archivos para el commit.
+git commit -m <descripción de los cambios> : crea un commit a partir de los cambios que están en el índice con el mensaje que se le pase a la opción -m.
+git status : muestra la lista de archivos con cambios desde el último commit y los que van a ser incluidos en el siguiente commit.
+git remote add origin <url repositorio> : Indicar la dirección del repositorio
+git push origin <Raman main> : Entregar los cambios
+git pull origin <Raman main> : Bajar los cambio

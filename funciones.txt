@@ -1,0 +1,5 @@
+- Mantenimiento, reparación y actualización de hardware y software.
+- Instalación, configuración y mantenimiento de impresoras.
+- Manejo de recursos compartidos en red.
+- Copia de backup de bases de datos.
+- Cumplir con las normas de calidad.
